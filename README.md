@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 # Hi, I'm Prateek 👋
 
@@ -34,7 +34,7 @@
 🔹 **Customer Churn Analysis**  
 - Analyzed customer behavior to identify churn drivers  
 - Built predictive insights using Python  
-👉 Repository: *add link*
+👉 Repository: https://github.com/PrateekKudari/customer-churn-analysis
 
 🔹 **Retail Sales Performance Dashboard**  
 - Built interactive Power BI dashboard with KPI tracking  

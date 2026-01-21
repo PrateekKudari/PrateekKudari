@@ -29,7 +29,7 @@
 - Cleaned and analyzed 200K+ transactional records  
 - Identified monthly revenue trends, top customers, and high-performing regions  
 - Used advanced SQL queries and window functions  
-👉 Repository: *add link*
+👉 Repository: https://github.com/PrateekKudari/onlineretail_project
 
 🔹 **Customer Churn Analysis**  
 - Analyzed customer behavior to identify churn drivers  

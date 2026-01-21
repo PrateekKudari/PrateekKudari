@@ -39,7 +39,7 @@
 🔹 **Retail Sales Performance Dashboard**  
 - Built interactive Power BI dashboard with KPI tracking  
 - Analyzed sales trends and regional performance  
-👉 Repository: *add link*
+👉 Repository: https://github.com/PrateekKudari/retail-sales-performance-dashboard-2010-2011
 
 ---
 

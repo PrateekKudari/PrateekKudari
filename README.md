@@ -71,7 +71,7 @@ Improving data storytelling and business-focused insights
 
 💼 LinkedIn: https://www.linkedin.com/in/prateek-kudari
 
-📂 GitHub: https://github.com/PrateekKudari
+📂 email: prateekkudari004@gmail.com
 
 ⭐ I’m open to Data Analyst Intern / Entry-Level Data Analyst opportunities.
 Feel free to explore my work or connect for collaboration and learning.

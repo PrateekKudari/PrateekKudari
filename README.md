@@ -38,7 +38,7 @@ Cleaned and analyzed 200K+ transactional records
 
 Identified monthly revenue trends, top customers, and high-performing regions
 
-Applied advanced SQL techniques including joins, aggregations, and window functions
+Applied advanced SQL techniques including joins, aggregations, and window functions <br>
 👉 Repository: https://github.com/PrateekKudari/onlineretail_project
 
 🔹 Customer Churn Analysis
@@ -47,7 +47,7 @@ Analyzed customer behavior to identify key churn drivers
 
 Performed EDA and generated insights using Python
 
-Focused on retention metrics and customer segmentation
+Focused on retention metrics and customer segmentation <br>
 👉 Repository: https://github.com/PrateekKudari/customer-churn-analysis
 
 🔹 Retail Sales Performance Dashboard (Power BI)
@@ -56,7 +56,7 @@ Built an interactive dashboard to track KPIs and sales performance
 
 Analyzed trends across products, regions, and time periods
 
-Delivered insights through clear visual storytelling
+Delivered insights through clear visual storytelling <br>
 👉 Repository: https://github.com/PrateekKudari/retail-sales-performance-dashboard-2010-2011
 
 📈 Currently Working On

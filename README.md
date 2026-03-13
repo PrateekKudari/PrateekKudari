@@ -1,98 +1,85 @@
 <h1 align="center">Hi 👋 I'm Prateek Kudari</h1>
 
-<h3 align="center">
-Data Analyst | SQL • Python • Power BI • Excel
-</h3>
-
 <p align="center">
-Transforming raw data into actionable business insights
+🚀 Data Analyst | SQL • Python • Power BI • Excel
 </p>
 
 ---
 
-# 🚀 About Me
+## 👨‍💻 About Me
 
-📊 Data Analyst passionate about turning complex datasets into business insights.
+🎓 Computer Science Student  
 
-Specializations:
+📊 Passionate about Data Analytics and Business Intelligence  
 
-• Data Cleaning & Transformation  
-• Exploratory Data Analysis (EDA)  
-• KPI Dashboard Development  
-• Business Insight Storytelling  
+💡 I transform raw datasets into actionable insights using SQL, Python, and Power BI  
 
-Experience working with:
+🔎 Experience analyzing:
+- Retail datasets
+- Customer churn data
+- Financial market data
+- Website traffic analytics
 
-- Retail sales analytics
-- Customer retention analysis
-- Financial time-series analysis
-- Website user behavior analytics
-
-Currently pursuing **B.E Computer Science (2023-2027)**.
-
-Open to **Data Analyst / BI Analyst internships and entry-level roles.**
+🌱 Currently improving my **data visualization and analytics engineering skills**
 
 ---
 
-# 🧠 Tech Stack
+## 🚀 Tech Stack
 
-### Data Analysis
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
+### Programming
 
-### Data Visualization
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
+![Python](https://img.shields.io/badge/Python-blue)
+![SQL](https://img.shields.io/badge/SQL-orange)
 
-### Python Libraries
+### Data Tools
+
+![Power BI](https://img.shields.io/badge/PowerBI-yellow)
+![Excel](https://img.shields.io/badge/Excel-green)
+
+### Libraries
+
 Pandas • NumPy • Matplotlib • Seaborn
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrateekKudari&show_icons=true&theme=tokyonight)
 
 ---
 
-# 🔥 Contribution Streak
+## 🔥 Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=PrateekKudari&theme=tokyonight)
 
 ---
 
-# 📈 Activity Graph
+## 📈 Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrateekKudari&theme=tokyo-night)
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-### 📊 Netflix User Analysis Dashboard
-🔗 https://github.com/PrateekKudari/netflix-user-analysis-dashboard
+⭐ **Netflix User Analysis Dashboard**  
+https://github.com/PrateekKudari/netflix-user-analysis-dashboard  
 
----
+⭐ **Website Traffic User Behavior Analysis**  
+https://github.com/PrateekKudari/website-traffic-user-behavior-analysis  
 
-### 🌐 Website Traffic User Behavior Analysis
-🔗 https://github.com/PrateekKudari/website-traffic-user-behavior-analysis
+⭐ **Subscription Retention Analytics (SQL)**  
+https://github.com/PrateekKudari/subscription-retention-analytics-using-sql  
 
----
-
-### 📉 Subscription Retention Analytics Using SQL
-🔗 https://github.com/PrateekKudari/subscription-retention-analytics-using-sql
-
----
-
-### 📈 TCS Stock Market Analysis Dashboard
-🔗 https://github.com/PrateekKudari/tcs-stock-market-analysis-dashboard
+⭐ **TCS Stock Market Analysis Dashboard**  
+https://github.com/PrateekKudari/tcs-stock-market-analysis-dashboard  
 
 ---
 
-# 📫 Connect With Me
-
-📧 Email  
-prateekkudari004.com  
+## 🌐 Connect With Me
 
 🔗 LinkedIn  
-https://www.linkedin.com/in/prateek-kudari
+https://www.linkedin.com/in/prateek-kudari  
+
+📧 Email  
+kudariprateek7@gmail.com

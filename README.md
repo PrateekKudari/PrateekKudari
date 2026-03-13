@@ -1,81 +1,66 @@
-# Hi, I’m Prateek Kudari 👋
+<h1 align="center">Hi 👋, I'm Prateek</h1>
+<h3 align="center">AI Developer | ML Enthusiast | Builder</h3>
 
-🎯 Aspiring Data Analyst with hands-on experience in analyzing real-world datasets, building dashboards, and translating data into actionable business insights.
+---
 
-🔍 Professional Summary
+## 🚀 About Me
 
-Detail-oriented Data Analyst with a strong foundation in SQL, Python, Power BI, and Excel, experienced in data cleaning, exploratory data analysis (EDA), and dashboard development. Proven ability to work with large datasets, uncover trends, and present insights that support data-driven decision-making. Actively building industry-aligned analytics projects and seeking internship or entry-level opportunities to contribute and grow in a professional analytics environment.
+- 🎓 Computer Science Student
+- 🤖 Interested in AI, ML and Agentic Systems
+- 🧠 Building AI tools and startups
+- 🌱 Currently learning Advanced AI & SaaS Development
+- ⚡ Fun fact: I build projects faster than tutorials
 
-🛠️ Technical Skills
+---
 
-Data Analysis & Visualization
+## 🛠 Tech Stack
 
-Power BI: Data Modeling, DAX, Interactive Dashboards, KPI Reporting
+### Languages
+![Python](https://img.shields.io/badge/Python-blue)
+![Java](https://img.shields.io/badge/Java-orange)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 
-Excel: Pivot Tables, VLOOKUP/XLOOKUP, Charts, Data Cleaning
+### Web Development
+![HTML](https://img.shields.io/badge/HTML-red)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![React](https://img.shields.io/badge/React-cyan)
+![NodeJS](https://img.shields.io/badge/NodeJS-green)
 
-Programming & Databases
+### Tools
+![Git](https://img.shields.io/badge/Git-orange)
+![GitHub](https://img.shields.io/badge/GitHub-black)
+![VS Code](https://img.shields.io/badge/VSCode-blue)
 
-SQL: Joins, Subqueries, Window Functions, Aggregations, Data Cleaning
+---
 
-Python: Pandas, NumPy, Exploratory Data Analysis (EDA)
+## 📊 GitHub Stats
 
-Databases: MySQL, PostgreSQL
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
-Other Tools & Skills
+---
 
-Git & GitHub
+## 🔥 Contribution Streak
 
-Business Analysis & Data Storytelling
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
 
-Problem Solving & Analytical Thinking
+---
 
-📊 Featured Projects
+## 📈 Activity Graph
 
-🔹 SQL E-Commerce Sales Analysis
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
 
-Cleaned and analyzed 200K+ transactional records
+---
 
-Identified monthly revenue trends, top customers, and high-performing regions
+## 🚀 Featured Projects
 
-Applied advanced SQL techniques including joins, aggregations, and window functions <br>
-<br>
-👉 Repository: https://github.com/PrateekKudari/onlineretail_project
+🔹 AI Startup Builder  
+🔹 Agentic AI System  
+🔹 Climate Monitoring Dashboard  
+🔹 AI Privacy Shield  
 
-🔹 Customer Churn Analysis
+---
 
-Analyzed customer behavior to identify key churn drivers
+## 🌐 Connect With Me
 
-Performed EDA and generated insights using Python
-
-Focused on retention metrics and customer segmentation <br>
-<br>
-👉 Repository: https://github.com/PrateekKudari/customer-churn-analysis
-
-🔹 Retail Sales Performance Dashboard (Power BI)
-
-Built an interactive dashboard to track KPIs and sales performance
-
-Analyzed trends across products, regions, and time periods
-
-Delivered insights through clear visual storytelling <br>
-<br>
-👉 Repository: https://github.com/PrateekKudari/retail-sales-performance-dashboard-2010-2011
-
-📈 Currently Working On
-
-Advanced SQL analytics and optimization techniques
-
-End-to-end Power BI projects (data cleaning → dashboard)
-
-Improving data storytelling and business-focused insights
-
-🤝 Let’s Connect
-
-💼 LinkedIn: https://www.linkedin.com/in/prateek-kudari
-
-📂 email: prateekkudari004@gmail.com
-
-⭐ I’m open to Data Analyst Intern / Entry-Level Data Analyst opportunities.
-Feel free to explore my work or connect for collaboration and learning.
-
+[LinkedIn](https://linkedin.com)  
+[Email](mailto:yourmail@gmail.com)

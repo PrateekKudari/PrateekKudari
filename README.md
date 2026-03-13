@@ -12,21 +12,21 @@ Transforming raw data into actionable business insights
 
 # 🚀 About Me
 
-📊 Data Analyst passionate about turning complex data into meaningful business decisions.
+📊 Data Analyst passionate about turning complex datasets into business insights.
 
-I specialize in:
+Specializations:
 
 • Data Cleaning & Transformation  
 • Exploratory Data Analysis (EDA)  
 • KPI Dashboard Development  
 • Business Insight Storytelling  
 
-🔍 Experience working with:
+Experience working with:
 
-- 200K+ retail sales records
-- Customer churn datasets
-- Financial time-series data
-- Website traffic analytics
+- Retail sales analytics
+- Customer retention analysis
+- Financial time-series analysis
+- Website user behavior analytics
 
 Currently pursuing **B.E Computer Science (2023-2027)**.
 
@@ -45,10 +45,7 @@ Open to **Data Analyst / BI Analyst internships and entry-level roles.**
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
 
 ### Python Libraries
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
+Pandas • NumPy • Matplotlib • Seaborn
 
 ---
 
@@ -70,53 +67,25 @@ Open to **Data Analyst / BI Analyst internships and entry-level roles.**
 
 ---
 
-# 📂 Featured Data Projects
+# 🚀 Featured Projects
 
-## 🛒 Retail Sales Analysis
-Analyzed **200K+ retail transactions** to identify:
-
-• Top performing product categories  
-• Monthly revenue trends  
-• Regional sales performance  
-
-Tools: **Python, SQL, Power BI**
+### 📊 Netflix User Analysis Dashboard
+🔗 https://github.com/PrateekKudari/netflix-user-analysis-dashboard
 
 ---
 
-## 📉 Customer Churn Analysis
-
-Built predictive analysis to understand:
-
-• Why customers leave  
-• Retention improvement strategies  
-
-Tools:
-Python • Pandas • Data Visualization
+### 🌐 Website Traffic User Behavior Analysis
+🔗 https://github.com/PrateekKudari/website-traffic-user-behavior-analysis
 
 ---
 
-## 💰 Financial Time Series Forecasting
-
-Analyzed financial trends to predict revenue movement using historical datasets.
-
----
-
-## 🌐 Website Traffic Analysis
-
-Explored user behavior patterns to optimize digital engagement and marketing decisions.
+### 📉 Subscription Retention Analytics Using SQL
+🔗 https://github.com/PrateekKudari/subscription-retention-analytics-using-sql
 
 ---
 
-# 💼 Professional Experience
-
-### Data Analyst  
-Unified Mentor Private Limited
-
-### Data Specialist  
-Tata
-
-• Automated **Excel → Python → Power BI pipeline**  
-• Reduced reporting time **by 30%**
+### 📈 TCS Stock Market Analysis Dashboard
+🔗 https://github.com/PrateekKudari/tcs-stock-market-analysis-dashboard
 
 ---
 
@@ -126,8 +95,4 @@ Tata
 kudariprateek7@gmail.com  
 
 🔗 LinkedIn  
-www.linkedin.com/in/prateek-kudari
-
----
-
-⭐ If you like my work, consider starring my repositories.
+https://www.linkedin.com/in/prateek-kudari

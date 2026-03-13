@@ -1,66 +1,133 @@
-<h1 align="center">Hi 👋, I'm Prateek</h1>
-<h3 align="center">AI Developer | ML Enthusiast | Builder</h3>
+<h1 align="center">Hi 👋 I'm Prateek Kudari</h1>
+
+<h3 align="center">
+Data Analyst | SQL • Python • Power BI • Excel
+</h3>
+
+<p align="center">
+Transforming raw data into actionable business insights
+</p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🎓 Computer Science Student
-- 🤖 Interested in AI, ML and Agentic Systems
-- 🧠 Building AI tools and startups
-- 🌱 Currently learning Advanced AI & SaaS Development
-- ⚡ Fun fact: I build projects faster than tutorials
+📊 Data Analyst passionate about turning complex data into meaningful business decisions.
 
----
+I specialize in:
 
-## 🛠 Tech Stack
+• Data Cleaning & Transformation  
+• Exploratory Data Analysis (EDA)  
+• KPI Dashboard Development  
+• Business Insight Storytelling  
 
-### Languages
-![Python](https://img.shields.io/badge/Python-blue)
-![Java](https://img.shields.io/badge/Java-orange)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+🔍 Experience working with:
 
-### Web Development
-![HTML](https://img.shields.io/badge/HTML-red)
-![CSS](https://img.shields.io/badge/CSS-blue)
-![React](https://img.shields.io/badge/React-cyan)
-![NodeJS](https://img.shields.io/badge/NodeJS-green)
+- 200K+ retail sales records
+- Customer churn datasets
+- Financial time-series data
+- Website traffic analytics
 
-### Tools
-![Git](https://img.shields.io/badge/Git-orange)
-![GitHub](https://img.shields.io/badge/GitHub-black)
-![VS Code](https://img.shields.io/badge/VSCode-blue)
+Currently pursuing **B.E Computer Science (2023-2027)**.
+
+Open to **Data Analyst / BI Analyst internships and entry-level roles.**
 
 ---
 
-## 📊 GitHub Stats
+# 🧠 Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+### Data Analysis
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
 
----
+### Data Visualization
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
 
-## 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
-
----
-
-## 📈 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
-
----
-
-## 🚀 Featured Projects
-
-🔹 AI Startup Builder  
-🔹 Agentic AI System  
-🔹 Climate Monitoring Dashboard  
-🔹 AI Privacy Shield  
+### Python Libraries
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 
 ---
 
-## 🌐 Connect With Me
+# 📊 GitHub Stats
 
-[LinkedIn](https://linkedin.com)  
-[Email](mailto:yourmail@gmail.com)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrateekKudari&show_icons=true&theme=tokyonight)
+
+---
+
+# 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=PrateekKudari&theme=tokyonight)
+
+---
+
+# 📈 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrateekKudari&theme=tokyo-night)
+
+---
+
+# 📂 Featured Data Projects
+
+## 🛒 Retail Sales Analysis
+Analyzed **200K+ retail transactions** to identify:
+
+• Top performing product categories  
+• Monthly revenue trends  
+• Regional sales performance  
+
+Tools: **Python, SQL, Power BI**
+
+---
+
+## 📉 Customer Churn Analysis
+
+Built predictive analysis to understand:
+
+• Why customers leave  
+• Retention improvement strategies  
+
+Tools:
+Python • Pandas • Data Visualization
+
+---
+
+## 💰 Financial Time Series Forecasting
+
+Analyzed financial trends to predict revenue movement using historical datasets.
+
+---
+
+## 🌐 Website Traffic Analysis
+
+Explored user behavior patterns to optimize digital engagement and marketing decisions.
+
+---
+
+# 💼 Professional Experience
+
+### Data Analyst  
+Unified Mentor Private Limited
+
+### Data Specialist  
+Tata
+
+• Automated **Excel → Python → Power BI pipeline**  
+• Reduced reporting time **by 30%**
+
+---
+
+# 📫 Connect With Me
+
+📧 Email  
+kudariprateek7@gmail.com  
+
+🔗 LinkedIn  
+www.linkedin.com/in/prateek-kudari
+
+---
+
+⭐ If you like my work, consider starring my repositories.

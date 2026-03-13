@@ -92,7 +92,7 @@ Pandas • NumPy • Matplotlib • Seaborn
 # 📫 Connect With Me
 
 📧 Email  
-kudariprateek7@gmail.com  
+prateekkudari004.com  
 
 🔗 LinkedIn  
 https://www.linkedin.com/in/prateek-kudari
